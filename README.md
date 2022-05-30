@@ -1,5 +1,5 @@
 # Sorting Algorithms
-<font size="20"> 1. Selection sort</font>
+## 1. Selection sort
 ![](https://pythonru.com/wp-content/uploads/2020/05/sortirovka-vyborom-na-python.gif)
 <font size=20> 2. Bubble Sorting</font>
 ![](https://pythonru.com/wp-content/uploads/2020/05/puzyrkovaya-sortirovka-na-python.gif)
